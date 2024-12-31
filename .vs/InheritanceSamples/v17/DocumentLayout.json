@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|d:\\dev\\windows\\src\\repos\\inheritancesamples\\inheritancesamples\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|solutionrelative:inheritancesamples\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|d:\\dev\\windows\\src\\repos\\inheritancesamples\\inheritancesamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|solutionrelative:inheritancesamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|d:\\dev\\windows\\src\\repos\\inheritancesamples\\inheritancesamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|solutionrelative:inheritancesamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|d:\\dev\\windows\\src\\repos\\inheritancesamples\\inheritancesamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FE7DD-91C0-4425-8D00-AFDB166B06E7}|InheritanceSamples\\InheritanceSamples.csproj|solutionrelative:inheritancesamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Cat.cs",
+              "RelativeDocumentMoniker": "InheritanceSamples\\Cat.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Cat.cs",
+              "RelativeToolTip": "InheritanceSamples\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:42:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Animal.cs",
+              "RelativeDocumentMoniker": "InheritanceSamples\\Animal.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Animal.cs",
+              "RelativeToolTip": "InheritanceSamples\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:41:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritanceSamples\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Form1.cs",
+              "RelativeToolTip": "InheritanceSamples\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:40:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\InheritanceSamples\\InheritanceSamples\\Form1.cs",
               "RelativeDocumentMoniker": "InheritanceSamples\\Form1.cs",
